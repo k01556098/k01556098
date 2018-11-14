@@ -1,10 +1,10 @@
-# Pasching
+﻿# Pasching
 
 Pasching ist eine Gemeinde in Oberösterreich im Bezirk Linz-Land im Zentralraum mit 7454 Einwohnern (Stand 1. Jänner 2017).
 
 ## Wappen
 
-![Wappen von Pasching](https://upload.wikimedia.org/wikipedia/commons/e/ee/Wappen_Pasching_RGB.svg)
+
 
 ## Geografie
 
